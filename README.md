@@ -1,11 +1,21 @@
 
-## Dina Bondarhuk 
+# Book vs. E-Book
+This is the repository about argue book vs. e-book
 
-### Advantages of E-books:
+## Book
 
-**One Device, Many Books:** 
+**Why book is interesting?**
+1. There are around 130 million published books.
 
-**Accessible Everywhere:**
-12345677
+**Benefit about BOOK**
+1. Reading Exercises the Brain
+2. Reading is a Form of (free) Entertainment
+3. Reading Improves Concentration and the Ability to Focus
+4. Reading Improves Literacy
+5. Reading Improves Sleep
+6. Reading Increases General Knowledge
+7. Reading is Motivational
+8. Reading Reduces Stress
+9. Reading Sets a Positive Example
+10. Reading Teaches Empathy
 
-**Easy on the Eyes:**
