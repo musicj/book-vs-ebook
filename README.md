@@ -24,3 +24,5 @@ This is the repository about argue book vs. e-book
 1. One Device, Many Books:
 2. Accessible Everywhere:
 3. Easy on the Eyes:
+
+![E-book image](images/pexels-perfecto-capucine-1247527.jpg)
